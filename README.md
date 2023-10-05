@@ -15,8 +15,13 @@ Howdy! I'm Kamran Fareed, a seasoned software maestro with a knack for crafting 
 🚀 **Chronicles of Kamran**:
 
 2017 🌟: Embarked as a PHP maestro, crafting digital marvels.
+
 2019 🌟: Anointed as a Laravel luminary, orchestrating high-caliber web ventures.
+
+2020 🌟: Experience as a Django harvesting, orchestrating ventures.
+
 Oct 2022 🌟: Embraced React.js and React Native, birthing scalable and efficient mobile wonders.
+
 
 🌐 **Diverse Clientele, Dazzling Results**: Collaborating across industries, I've helped clients achieve their dreams through code magic.
 
