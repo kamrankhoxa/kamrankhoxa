@@ -1,4 +1,4 @@
-🚀 **Kamran Fareed - Software Developer Extraordinaire** 🚀
+🚀 **Kamran Fareed - Software Developer** 🚀
 
 Howdy! I'm Kamran Fareed, a seasoned software maestro with a knack for crafting exceptional digital experiences. Here's a sneak peek into my tech journey:
 
