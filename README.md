@@ -2,8 +2,6 @@
 
 Howdy! I'm Kamran Fareed, a seasoned software maestro with a knack for crafting exceptional digital experiences. Here's a sneak peek into my tech journey:
 
-🐍 **Python (Django) Aficionado**: Wrangling Django since the early days, I've molded Python into powerful web applications.
-
 🚀 **Laravel Luminary**: Transitioned into the Laravel universe in 2019, where I've been orchestrating seamless web experiences.
 
 ⚛️ **React (JS, Native) Guru**: Commanding React.js and React Native, I'm architecting engaging interfaces that leave users in awe.
