@@ -2,13 +2,13 @@
 
 Howdy! I'm Kamran Fareed, a seasoned software maestro with a knack for crafting exceptional digital experiences. Here's a sneak peek into my tech journey:
 
-🚀 **Laravel Luminary**: Transitioned into the Laravel universe in 2019, where I've been orchestrating seamless web experiences.
+🚀 **Laravel**: Transitioned into the Laravel universe in 2019, where I've been orchestrating seamless web experiences.
 
-⚛️ **React (JS, Native) Guru**: Commanding React.js and React Native, I'm architecting engaging interfaces that leave users in awe.
+⚛️ **React (JS, Native)**: Commanding React.js and React Native, I'm architecting engaging interfaces that leave users in awe.
 
-🚀 **Ionic + React + Capacitor Maven**: Navigating the crossroads of Ionic, React, and Capacitor, I'm sculpting hybrid apps that defy expectations.
+🚀 **Ionic + React + Capacitor**: Navigating the crossroads of Ionic, React, and Capacitor, I'm sculpting hybrid apps that defy expectations.
 
-🍃 **MERN Stack Virtuoso**: From MongoDB to Express, React, and Node, I wield the MERN stack with finesse.
+🍃 **MERN Stack**: From MongoDB to Express, React, and Node, I wield the MERN stack with finesse.
 
 🚀 **Chronicles of Kamran**:
 
