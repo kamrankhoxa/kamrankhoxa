@@ -8,15 +8,15 @@ Howdy! I'm Kamran Fareed, a seasoned software maestro with a knack for crafting 
 
 🚀 **Ionic + React + Capacitor**: Navigating the crossroads of Ionic, React, and Capacitor, I'm sculpting hybrid apps that defy expectations.
 
-🍃 **MERN Stack**: From MongoDB to Express, React, and Node, I wield the MERN stack with finesse.
+🍃 **T3 Stack**: From Next, Nest, React, and Node, I wield the T3 stack with finesse.
 
 🚀 **Chronicles of Kamran**:
 
 - 2017 🌟: Embarked as a PHP maestro, crafting digital marvels.
 - 2019 🌟: Worked as a GSX Scripting, Custom mods & PromodX.
 - 2019 🌟: Anointed as a Laravel luminary, orchestrating high-caliber web ventures.
-- 2020 🌟: Experience as a Django harvesting, orchestrating ventures.
-- Oct 2022 🌟: Embraced React.js and React Native, birthing scalable and efficient mobile wonders.
+- 2020 🌟: Experience as a React.js harvesting, orchestrating ventures.
+- Oct 2022 🌟: Embraced Next and Nest, birthing scalable and efficient mobile wonders.
 
 
 🌐 **Diverse Clientele, Dazzling Results**: Collaborating across industries, I've helped clients achieve their dreams through code magic.
