@@ -21,3 +21,11 @@ Approach & Collaboration:
 
 Let's Connect:
 * Excited to explore how my skills can fuel your next project's success!
+
+Socials:
+* [LinkedIn](https://www.linkedin.com/in/kamrankhoxa) @kamrankhoxa
+* [Facebook](https://www.facebook.com/kamrankhoxa) @kamrankhoxa
+* [Instagram](https://www.instagram.com/kamrankhoxa) @kamrankhoxa
+* [Twitter](https://twitter.com/kamrankhoxa) @kamrankhoxa
+* [GitHub](https://github.com/kamrankhoxa) @kamrankhoxa
+* [Patreon](https://www.patreon.com/kamrankhoxa) @kamrankhoxa
