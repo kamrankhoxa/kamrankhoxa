@@ -1,7 +1,7 @@
 Overview:
 * I'm a Software Engineer passionate about transforming complex challenges into scalable, high-performance, and user-focused web solutions leveraging the power of the T3 Stack and PHP/Laravel to deliver clean, efficient, and impactful applications.
 
-Experience Highlights (1.5+ Years):
+Experience Highlights (3+ Years):
 * Engineered custom Single Sign-On (SSO) systems to greatly enhance user authentication.
 * Optimized subscription management to reduce operational overhead.
 * Accelerated secure, multi-currency transactions using BTCPay Server.
