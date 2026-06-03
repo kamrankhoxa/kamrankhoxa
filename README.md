@@ -33,9 +33,9 @@
 
 ### Socials
 
-* LinkedIn: https://www.linkedin.com/in/kamrankhoxa (@kamrankhoxa)
-* GitHub: https://github.com/kamrankhoxa (@kamrankhoxa)
-* Facebook: https://www.facebook.com/kamrankhoxa (@kamrankhoxa)
-* Instagram: https://www.instagram.com/kamrankhoxa (@kamrankhoxa)
-* Twitter/X: https://twitter.com/kamrankhoxa (@kamrankhoxa)
-* Patreon: https://www.patreon.com/kamrankhoxa (@kamrankhoxa)
+* LinkedIn: [@kamrankhoxa](https://www.linkedin.com/in/kamrankhoxa)
+* GitHub: [@kamrankhoxa](https://github.com/kamrankhoxa)
+* Facebook: [@kamrankhoxa](https://www.facebook.com/kamrankhoxa)
+* Instagram: [@kamrankhoxa](https://www.instagram.com/kamrankhoxa)
+* Twitter/X: [@kamrankhoxa](https://twitter.com/kamrankhoxa)
+* Patreon: [@kamrankhoxa](https://www.patreon.com/kamrankhoxa)
