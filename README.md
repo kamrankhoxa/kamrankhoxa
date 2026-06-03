@@ -1,28 +1,37 @@
-Overview:
-* I'm a Software Engineer passionate about transforming complex challenges into scalable, high-performance, and user-focused web solutions leveraging the power of the T3 Stack and PHP/Laravel to deliver clean, efficient, and impactful applications.
+### Overview:
 
-Experience Highlights (3+ Years):
-* Engineered custom Single Sign-On (SSO) systems to greatly enhance user authentication.
-* Optimized subscription management to reduce operational overhead.
-* Accelerated secure, multi-currency transactions using BTCPay Server.
-* Developed diverse solutions including AI-powered diagnostic tools, DeFi presale launchpads, custom WordPress plugins, and headless CMS solutions with Strapi.js.
-* Proven ability to turn complex requirements into reality.
+* [cite_start]I'm a Software Engineer and Full Stack Developer serving as an Associate Team Lead at Code Botx, with over 4.5+ years of overall experience and 3.5+ years of industry experience. [cite: 6, 10] [cite_start]I specialize in JavaScript and PHP, with a proven track record of designing scalable microservices and SaaS-optimized applications. [cite: 6, 7]
 
-Core Technologies & Expertise:
-* Languages: TypeScript & PHP
-* Frameworks/Stacks: T3 Stack (Next.js, React, Node.js), LAMP Stack (Linux, Apache, MySQL, PHP), Laravel, Codeigniter
-* Concepts/Architecture: Multi-tenancy Architecture, Single Sign-On (SSO), RESTful API Design
-* Other Tech: Basic Blockchain Integration, Docker-based Deployment
+### Experience Highlights (3.5+ Industry Years):
 
-Approach & Collaboration:
-* Strong believer in teamwork and clear communication.
-* Proactive approach to problem-solving.
+* [cite_start]Led zero-downtime deployment initiatives for a large-scale TypeScript platform to ensure uninterrupted service availability. [cite: 13]
+* [cite_start]Architected scalable, Dockerized microservices ecosystems deployed with AWS ALB. [cite: 60]
+* [cite_start]Engineered multi-tenancy frameworks integrating CRM, HRM, and ERP modules to improve client onboarding speed by 35%. [cite: 24]
+* [cite_start]Optimized subscription and order-management workflows using asynchronous microservice orchestration to cut manual operations overhead by 60%. [cite: 19]
+* [cite_start]Delivered centralized Single Sign-On (SSO) authentication systems that increased authentication efficiency by 80%. [cite: 25]
+* [cite_start]Developed secure escrow-based payment infrastructures using BTCPay Server and integrated multi-currency crypto support. [cite: 29]
+
+### Core Technologies & Expertise:
+
+* [cite_start]**Languages:** TypeScript, JavaScript, PHP [cite: 45]
+* [cite_start]**Frameworks & Libraries:** Next.js, Nest.js, Laravel, Express.js, React.js, React Native, Zustand, Redux [cite: 45]
+* [cite_start]**Databases:** MongoDB, MySQL, PostgreSQL [cite: 45]
+* [cite_start]**Cloud & Infrastructure:** Docker, Kubernetes, AWS, Digital Ocean, Contabo, Apache, Nginx, Redis, Kafka [cite: 45]
+* [cite_start]**AI & APIs:** OpenAI, DeepSeek, Gemini Pro, Stripe, PayPal, Google Pay [cite: 45]
+
+### Approach & Collaboration:
+
+* [cite_start]Strong believer in enforcing clean architecture principles to reduce technical debt and stabilize development velocity. [cite: 14]
+* [cite_start]Dedicated to delivering streamlined deployments using advanced tools like Docker and AWS. [cite: 8]
+* Proactive approach to complex problem-solving across frontend, backend, and infrastructure layers.
 * Dedicated to delivering clean, secure, and maintainable code that achieves results.
 
-Let's Connect:
+### Let's Connect:
+
 * Excited to explore how my skills can fuel your next project's success!
 
-Socials:
+### Socials:
+
 * [LinkedIn](https://www.linkedin.com/in/kamrankhoxa) @kamrankhoxa
 * [Facebook](https://www.facebook.com/kamrankhoxa) @kamrankhoxa
 * [Instagram](https://www.instagram.com/kamrankhoxa) @kamrankhoxa
