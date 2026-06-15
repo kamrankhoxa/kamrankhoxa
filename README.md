@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="3oLFe-p4WhhpKZIDlbW4M9-0iPwnLqAjn9V28XgS-fE" />
 ### Overview
 
 * I'm a Software Engineer and Full Stack Developer serving as an Associate Team Lead at Code Botx, with over 4.5+ years of overall experience and 3.5+ years of industry experience.
