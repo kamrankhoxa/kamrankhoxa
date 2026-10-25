@@ -2,7 +2,7 @@
 <meta name="google-site-verification" content="3oLFe-p4WhhpKZIDlbW4M9-0iPwnLqAjn9V28XgS-fE" />
 
 <h1 align="center">Hi there, I'm Kamran Fareed 👋</h1>
-<h3 align="center">Associate Team Lead | Full Stack Software Engineer</h3>
+<h3 align="center">Associate Team Lead | Software Engineer | AI & Blockchain Researcher</h3>
 
 <p align="center">
   <a href="https://kamrankhoxa.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
@@ -10,40 +10,36 @@
   <a href="mailto:kamrankhoxa@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-### 👨‍💻 Overview
-I'm a Software Engineer and Full Stack Developer serving as an Associate Team Lead at **Code Botx**, with over **4.5+ years** of overall experience and **3.5+ years** of industry experience.
+### 👨‍💻 Academic Profile & Objective
+**Objective:** Detail-oriented Software Engineer transitioning into AI research, seeking to leverage a strong foundation in full-stack engineering to build scalable, ethical, and intelligent systems.
 
-I specialize in JavaScript and PHP, with a proven track record of designing scalable microservices and SaaS-optimized applications.
+BS (CS) Graduate (CGPA: 3.43/4.0, Bronze Medalist) with 3.5+ years industry experience in full-stack software development. Recipient of Ahsaas Merit-Based Scholarship and PMYP Laptop Scheme. 
 
----
-
-### 🚀 Experience Highlights (3.5+ Industry Years)
-* ⚡ Led zero-downtime deployment initiatives for a large-scale TypeScript platform to ensure uninterrupted service availability.
-* 🏗️ Architected scalable, Dockerized microservices ecosystems deployed with AWS ALB.
-* ⚙️ Engineered multi-tenancy frameworks integrating CRM, HRM, and ERP modules to improve client onboarding speed by **35%**.
-* 📈 Optimized subscription and order-management workflows using asynchronous microservice orchestration to cut manual operations overhead by **60%**.
-* 🔐 Delivered centralized Single Sign-On (SSO) authentication systems that increased authentication efficiency by **80%**.
-* 💳 Developed secure escrow-based payment infrastructures using BTCPay Server and integrated multi-currency crypto support.
+**Research Focus:**
+* 🧠 **Artificial Intelligence:** Exploring ML, NLP, and AI automation using Python for healthcare, finance, and security applications.
+* 👁️ **Computer Vision & Deep Learning:** Investigating neural network architectures for image recognition, object detection, and real-time visual analytics.
+* ⚖️ **Responsible & Explainable AI:** Researching fairness, transparency, and interpretability in autonomous intelligent systems.
 
 ---
 
-### 🛠️ Core Technologies & Expertise
+### 💼 Experience Highlights
+* **Codebotx (Nov 2025 – Present):** Led zero-downtime deployments for large-scale TypeScript platform. Refactored core services enforcing clean architecture, reducing technical debt.
+* **Tech Solutions Pro (Apr 2025 – Nov 2025):** Architected microservices Amazon-style platform; accelerated onboarding 35%, reduced deployment 40%. Optimized subscription workflows using async orchestration; cut manual overhead 60%.
+* **BloomRix (Aug 2024 – Feb 2025):** Built scalable multi-tenancy framework (CRM, HRM, ERP); improved onboarding 35%, deployment 40%. Delivered SSO authentication; increased efficiency 80%.
+* **SA Communications (Jan 2023 – Jul 2024):** Developed escrow payment system with BTCPay Server; improved transaction speed 15%. Implemented BIP39 wallet recovery; increased success rates 30%.
+* **eFAIDA Technologies (Apr 2023 – Dec 2023):** Delivered 10+ CMS plugins; improved performance 25%, 95% client satisfaction. Architected headless CMS with Strapi.js; reduced dev time 30%, latency 20%.
+
+---
+
+### 🛠️ Technologies (Matched to Resume)
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **Frameworks & Libraries** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4A90E2?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
-| **AI & APIs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=flat-square&logo=google-pay&logoColor=white) |
-
----
-
-### 🤝 Approach & Collaboration
-* 🧠 **Clean Architecture:** Strong believer in enforcing clean architecture principles to reduce technical debt and stabilize development velocity.
-* 🚀 **Streamlined Deployments:** Dedicated to delivering robust, scalable solutions using advanced tools like Docker and AWS.
-* 🛠️ **Proactive Problem Solving:** Proactive approach to complex problem-solving across frontend, backend, and infrastructure layers.
-* ✨ **Quality First:** Dedicated to delivering clean, secure, and maintainable code that achieves real-world results.
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) |
 
 ---
 
